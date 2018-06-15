@@ -1,0 +1,13 @@
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\bin\Debug\HTG_Dartboard.exe.config
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\bin\Debug\HTG_Dartboard.exe
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\bin\Debug\HTG_Dartboard.pdb
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\bin\Debug\HTG_Dartboard.xml
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.vbprojResolveAssemblyReference.cache
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.ctlDartboard.resources
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.Form1.resources
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.Resources.resources
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.vbproj.GenerateResource.Cache
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.vbproj.CoreCompileInputs.cache
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.exe
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.xml
+D:\Personal\Projects\Articles\Dartboard\HTG_Dartboard\HTG_Dartboard\obj\Debug\HTG_Dartboard.pdb
